@@ -3,7 +3,37 @@
 }
 body {
     font-family: 'Tangerine', serif;    
-    text-shadow: 4px 4px 4px #aaa;
     margin: auto;
+    width: 50%;
+    color: white;
+    background-color: black;
   }
-  .section
+  .section-1{
+    margin-top: 1px;
+  }
+  .section-1 h2{
+    font-size: 40px;
+    color: green;
+    text-decoration-line: underline;
+    letter-spacing: 5px;
+    text-align: center;
+  }
+  .section-1 li{
+    line-height: 30px;
+    font-size: 30px;
+  }
+  #novel{
+    color: yellow;
+  }
+  #coffee{
+    color: brown;
+  }
+  #food{
+    color: blueviolet;
+  }
+  #travel{
+    color: cyan;
+  }
+  #beach{
+    color: hotpink;
+  }
