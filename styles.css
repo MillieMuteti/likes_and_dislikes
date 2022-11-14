@@ -11,6 +11,12 @@ body {
   .section-1{
     margin-top: 1px;
   }
+  .likes{
+    border-radius: 1rem;
+    border: 2px solid white;
+    padding: 20px 10px 20px 50px;
+
+  }
   .section-1 h2{
     font-size: 40px;
     color: green;
@@ -36,4 +42,41 @@ body {
   }
   #beach{
     color: hotpink;
+  }
+  .section-2{
+    margin-top: 2px;
+  }
+  .section-2 h2{
+    text-align: center;
+    font-size: 40px;
+    color: darkblue;
+  }
+  .dislikes{
+    border: 2px solid palevioletred;
+    border-radius: 1rem;
+    padding: 20px 10px 20px 50px;
+    font-size: 20px;
+  }
+  ul.dislikes{
+    letter-spacing: 3px;
+    font-size: 30px;
+  }
+  #crowds{
+    text-shadow: 2px 2px red;
+  }
+  #paper{
+    text-shadow: 2px 2px blueviolet;
+    
+  }
+  #awkward{
+    font-style: italic;
+    color: coral;
+  }
+  #alarms{
+    font-weight: 900;
+    text-decoration-line: line-through;
+  }
+  #cleaning{
+    font-style: oblique;
+    text-indent: 2rem;
   }
